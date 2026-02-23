@@ -1,8 +1,8 @@
-version: 3.2.3
+version: 1.0.0
 files:
-  - url: TiktEasy-Setup-3.2.3.exe
-    sha512: aBZrfPszqVCtO2ayHHiELH5omm1CthPRKUPi2rvrBfRWeuu4wYAvn/clsElByViWkXZo7awSRx8O5FwJ1IFwNw==
-    size: 78242570
-path: TiktEasy-Setup-3.2.3.exe
-sha512: aBZrfPszqVCtO2ayHHiELH5omm1CthPRKUPi2rvrBfRWeuu4wYAvn/clsElByViWkXZo7awSRx8O5FwJ1IFwNw==
-releaseDate: '2026-02-23T04:52:33.089Z'
+  - url: TiktEasy-Setup-1.0.0.exe
+    sha512: HLivnKWIFmInKIoR8ws9spmjxQojE6RxnmkIF6d8aNRes03xjQy2/XOfpvmgirAdtgOSHUNK7g7ub/CRaaFTyA==
+    size: 78245568
+path: TiktEasy-Setup-1.0.0.exe
+sha512: HLivnKWIFmInKIoR8ws9spmjxQojE6RxnmkIF6d8aNRes03xjQy2/XOfpvmgirAdtgOSHUNK7g7ub/CRaaFTyA==
+releaseDate: '2026-02-23T08:18:18.561Z'
