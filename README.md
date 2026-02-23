@@ -1,10 +1,10 @@
-Thank you for installing TikTeasy.
+Thank you for installing TiktEasy.
 
-Windows SmartScreen may display a warning because TikTeasy is a new independent application without a code signing certificate yet. This is normal for newly released software.
+Windows SmartScreen may display a warning because TiktEasy is a new independent application without a code signing certificate yet. This is normal for newly released software.
 
-TikTeasy is safe and built for streamers who want fast, reliable live interaction triggers.
+TiktEasy is safe and built for streamers who want fast, reliable live interaction triggers.
 
 If you have any questions or find a bug, please report it on GitHub.
 
-— Hingyha, TikTeasy Developer
+— Hingyha, TiktEasy Developer
 Built by one streamer. For all streamers.
